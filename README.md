@@ -2,7 +2,7 @@
 
 <h3 align="left">🏆 Awards</h3>
 <p align="left">
-- Motorola silver code - 2nd place
+  <li>Motorola silver code - 2nd place</li>
 - Motorola science cup 3 - waiting for finals
 </p>
 
