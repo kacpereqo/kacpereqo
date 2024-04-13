@@ -7,4 +7,4 @@
   <li>SheepYourHack - 3th place 16.12.2023</li>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacpereqo&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacpereqo&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
