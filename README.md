@@ -3,7 +3,7 @@
 <h3>🏆 Awards</h3>
 <p align="left">
   <li>Motorola silver code - 2nd place  11.06.2022</li>
-  <li>Motorola science cup 3 - 1st place 12.06.2023</li>
+  <li>Motorola science cup 3 - 1st place 2.06.2023</li>
   <li>SheepYourHack - 3th place 16.12.2023</li>
 </p>
 
