@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kapcer</h1>
 
 <h3>🛠️ Currently working on</h3>
-<li>sjpy - zero dependency python api for SJP</li>
+<li>sjpy - zero dependency python api for SJP with binding to rust</li>
 <li>sjprs - zero dependency rust api for SJP</li>
 <li>szpuntnik - Software for rocket computer 🚀</li>
 
