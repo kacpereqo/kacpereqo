@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kapcer</h1>
 
 <h3>🛠️ Currently working on</h3>
-<li>sjpy - zero dependency python api for SJP</li>
-<li>sjprs - zero dependency rust api for SJP</li>
+<li>Nes-emulator 🎮</li>
+<li>Cubesat - developing entire software for space satelite! 🛰️</li>
 <li>szpuntnik - Software for rocket computer 🚀</li>
 
 <h3>🏆 Competitions</h3>
